@@ -1,1 +1,2 @@
-<h1>titol</h1>
+<h1>Erecasino Goud</h1>
+<a href=shop.php>je dikke mama winkel</a>
