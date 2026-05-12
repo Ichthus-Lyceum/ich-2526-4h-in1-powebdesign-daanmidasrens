@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23807935)
 # Deze repository is in ontwikkeling
 - Van proberen kun je leren ;-)
 - Maak een issue als je feedback wilt geven.
@@ -5,8 +6,6 @@
 # PHP projecten
 
 Deze repository bevat een configuratie voor de Codespaces ontwikkelomgeving.
-
-Leerlingen kunnen hiermee de PHP projecten uit Informatica-Actief maken.
 
 De configuratie ondersteunt:
 - PHP
@@ -19,14 +18,6 @@ De configuratie ondersteunt:
 - Voordat je aan de slag gaat kopieer je de projectcode naar een plek waar je die kunt wijzigen.
 - Je docent vertelt hoe je dit kunt doen.
 
-Opties voor de docent:
-- Optie 1: voor incidenteel gebruik (zonder GitHub Classroom)
-  - Een leerling drukt op "Use this template"->"Create a new repository" en slaat de projectcode (repository) op onder zijn eigen account.
-  - Deze leerling voegt onder Settings van de repository de andere leerling en de docent toe als collaborator.
-- Optie 2: voor structureel gebruik (met GitHub Classroom)
-  - De docent gebruikt GitHub Classroom om een opdracht aan te maken en deelt een inschrijf-link met leerlingen.
-  - Leerlingen gebruiken de inschrijf-link naar GitHub Classroom om een repository voor hun groepje aan te maken. Deze repositories worden geplaatst in een door de docent beheerde GitHub-organisatie.
-
 ## Start Codespaces
 - Login op https://github.com/
 - Ga naar de pagina met jouw projectcode
@@ -37,13 +28,8 @@ Opties voor de docent:
 Start de PHP-webserver:
 - Type in de terminal `php -S localhost:8080` en druk dan op de toets [Enter↵]
 
-Een browser vraagt het `index.php` bestand op bij de webserver, maakt de inhoud op en laat de opgemaakte inhoud zien.
-
 Als de browser niet automatisch opent:
 - Klik op ports, klik bij port 8080 (webserver) op "Open in Browser" (wereldbol) of "Preview in Editor" (rechts van wereldbol)<br>
-
-## Code aanpassen
-- Dubbelklik op een bestand dat eindigt op `.php`. Het bestand wordt geopend in de editor.
 
 ## Wijzigingen opslaan in GitHub
 Sla je wijzigingen als volgt op in GitHub:
@@ -54,14 +40,14 @@ Sla je wijzigingen als volgt op in GitHub:
 ## Samenwerken in GitHub
 Sla je wijzigingen op in GitHub, zoals hierboven beschreven.
 
-Als je maatje intussen andere wijzigingen heeft opgeslagen, dan kiest GitHub als volgt:
-- Bestanden die jouw maatje heeft gewijzigd worden van GitHub naar jouw Codespace gekopieerd.
+Als je teamlid intussen andere wijzigingen heeft opgeslagen, dan kiest GitHub als volgt:
+- Bestanden die jouw teamlid heeft gewijzigd worden van GitHub naar jouw Codespace gekopieerd.
 - Bestanden die jij hebt gewijzigd worden van jouw Codespace naar GitHub gekopieerd. 
 - Van bestanden die jullie allebei hebben gewijzigd toont GitHub jouw versie als laatste versie.
 
-Wijzigingen van je maatje die jij hebt overschreven kun je terughalen:
+Wijzigingen van je teamlid die jij hebt overschreven kun je terughalen:
 - Klik op het Source Control icoon.
-- Klik onder GRAPH op de wijziging van je maatje, de lijst met bestanden die je maatje veranderd heeft verschijnen
+- Klik onder GRAPH op de wijziging van je teamlid, de lijst met bestanden die je teamlid veranderd heeft verschijnen
 - Klik bij het bestand waarvan je wijzigingen wilt herstellen op het icoontje links van de M, het bestand opent (als je rode en groene regels ziet dan heb je op de naam van het bestand geklikt in plaats van het icoontje)
-- Knip en plak de wijzigingen uit de versie van je maatje naar de versie van jou
+- Knip en plak de wijzigingen uit de versie van je teamlid naar de versie van jou
 - Sla je wijzigingen op in GitHub met "Commit & Sync"
