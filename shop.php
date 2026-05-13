@@ -21,7 +21,7 @@
 <p>
     Binnenkort komen de volgende wedstrijden. 
     Dit betekent dat mensen die 18+ zijn mogen gokken met een minimaal bedrag van 10 euro.
-    Als u notificaties aan heeft sturen wij een melding als een nieuwe wedstrijd binnenkort wordt gespeelt
+    Als u notificaties aan heeft sturen wij een melding als een nieuwe wedstrijd binnenkort wordt gespeelt.
 </p>
 </body>
 
