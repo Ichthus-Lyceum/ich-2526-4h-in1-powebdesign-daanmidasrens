@@ -19,4 +19,8 @@
     <a><img src=plaatjes/logo.png width = "200" height = "200"></a>
     <p><a href=shop.php>Wedstrijden</a></p>
 
+    <p> "Welkom bij Erecasino Goud wij zijn een gok website voor de erendivicie. 
+        Wij proberen een betrouwbare gok site te maken voor mensen van 18+.
+    </p>"
+
 </body>
