@@ -19,8 +19,9 @@
     <h1>Wedstrijden</h1>
     <a href=index.php>Hoofd pagina</a>
 <p>
-    Op dit moment is de erendivicie gestopt. Dit betekent dat er geen wedstrijden meer zijn.
-    Als er weer wedstrijden zijn zorgen wij er voor dat jullie dat kunnen zien.
+    Binnenkort komen de volgende wedstrijden. 
+    Dit betekent dat mensen die 18+ zijn mogen gokken met een minimaal bedrag van 10 euro.
+    Als u notificaties aan heeft sturen wij een melding als een nieuwe wedstrijd binnenkort wordt gespeelt
 </p>
 </body>
 

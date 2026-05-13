@@ -20,8 +20,9 @@
     <p><a href=shop.php>Wedstrijden</a></p>
 
     <p> 
-        "Welkom bij Erecasino Goud wij zijn een gok website voor de erendivicie. 
+        Welkom bij Erecasino Goud wij zijn een gok website voor de erendivicie. 
         Wij proberen een betrouwbare gok site te maken voor mensen van 18+.
-    </p>"
+        U moet minimaal 10 euro inzetten om te kunnen gokken.
+    </p>
 
 </body>
