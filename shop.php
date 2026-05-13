@@ -18,7 +18,10 @@
 
     <h1>Wedstrijden</h1>
     <a href=index.php>Hoofd pagina</a>
-
+<p>
+    Op dit moment is de erendivicie gestopt. Dit betekent dat er geen wedstrijden meer zijn.
+    Als er weer wedstrijden zijn zorgen wij er voor dat jullie dat kunnen zien.
+</p>
 </body>
 
 </html>
