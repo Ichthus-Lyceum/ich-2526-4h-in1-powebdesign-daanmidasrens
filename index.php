@@ -21,7 +21,7 @@
 
     <p> 
         Welkom bij Erecasino Goud wij zijn een gok website voor de erendivicie. 
-        Wij proberen een betrouwbare gok site te maken voor mensen van 18+.
+        Wij zijn een betrouwbare gok site waar je geld kan verdienen voor mensen van 18+.
         U moet minimaal 10 euro inzetten om te kunnen gokken.
     </p>
 
