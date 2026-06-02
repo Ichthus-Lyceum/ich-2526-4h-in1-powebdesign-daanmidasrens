@@ -1,6 +1,4 @@
-body{
-    background-color: rgb(243, 239, 45);
-}
+
 /* Algemene instellingen */
 * {
     margin: 0;
@@ -10,11 +8,7 @@ body{
 
 body {
     font-family: Arial, sans-serif;
-    background-color: (243, 239, 45);
-}
-
-/* Grid-layout */
-.container {
+    background-color: rgb(243, 239, 45);
     display: grid;
     grid-template-areas:
         "header"
@@ -28,10 +22,15 @@ body {
 /* Header */
 header {
     grid-area: header;
-    background-color: #1e3a5f;
-    color: white;
-    text-align: center;
+    display: flex;
+    background-color:(243, 239, 45);
+    color: rgb(0, 0, 0);
+    text-align: right;
     padding: 20;
+}
+
+header img{
+    flex-basis: 50px;
 }
 
 /* Navigatie */
