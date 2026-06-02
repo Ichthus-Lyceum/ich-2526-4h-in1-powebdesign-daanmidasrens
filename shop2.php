@@ -26,5 +26,14 @@
     <p><a href=gokeuh.php>Gokken</a></p>
 </nav>
 
+<main>
+    <p>
+        Welkom bij de Erencasino goud zijn merch Winkel. 
+        In deze winkel kun je merch vinden van de erendevicie en van bekende clubs.
+        Na een bestelling van 50 euro zijn er geen verzents kosten.
+    </p>
+
+</main>
+
 </body>
 </html>
