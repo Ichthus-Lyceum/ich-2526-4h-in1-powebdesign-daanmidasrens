@@ -23,7 +23,7 @@ body {
 header {
     grid-area: header;
     display: flex;
-    background-color:(243, 239, 45);
+    background-color: #104911;
     color: rgb(0, 0, 0);
     text-align: right;
     padding: 20;
@@ -36,7 +36,7 @@ header img{
 /* Navigatie */
 nav {
     grid-area: nav;
-    background-color: #2c5a8a;
+    background-color: #548c2f;
 }
 
 nav ul {
@@ -59,7 +59,7 @@ nav a:hover {
 /* Hoofdinhoud */
 main {
     grid-area: main;
-    background-color: white;
+    background-color: #aab03c;
     padding: 20;
 }
 
@@ -76,7 +76,7 @@ article {
 /* Footer */
 footer {
     grid-area: footer;
-    background-color: #1e3a5f;
+    background-color: rgb(243, 239, 45);
     color: white;
     text-align: center;
     padding: 15;
