@@ -14,11 +14,28 @@
 
 <body>
 
-    </html>
-    <h1> Info over ons </h1>
-
-    <p> Wij zijn ere casino goud en 
-       
+    <header>
+    <h1> Informatie </h1>
+    </header>
+    <p> Wij zijn ere casino goud een betrouwbare een erkende gok website. 
+        Bij ons kan je veilig je geld inzetten op de erdivisie wedstrijden. 
+        Wij werken met het systeem dat je het geld naar ons overmaakt en in ruil daarvoor zal je je geld als krediet ontvangen.
+        Bijvoorbeeld als u 10 euro overmaakt krijgt u 10 euro krediet terug.
+        Wij doen dit zodat er geen situaties ontstaan waarbij er een speler geld inzet maar het niet kan betalen.
+        Mocht er toch iets misgaan met krediet inzetten of geld storten voor krediet dan kunt u ons bereiken via onze gegevens hier onder
     </p>
+    
+    <header>
+    <h2> Gegevens </h2>
+</header>
+    
+    
+    <p2> 
+
+
+
+    
+    </p2>
 
 </body>
+</html>
