@@ -16,7 +16,10 @@
 
 <body>
 
+<header>
     <h1>Wedstrijden</h1>
+</header>
+
     <a href=index.php>Hoofd pagina</a>
 <p>
     Binnenkort komen de volgende wedstrijden. 

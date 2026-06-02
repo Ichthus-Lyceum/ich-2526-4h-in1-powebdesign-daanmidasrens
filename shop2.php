@@ -16,5 +16,15 @@
 
 <body>
 
+<header>
+    <h1>Merch Winkel</h1>
+</header>
+
+<nav>
+    <p><a href=shop.php>Wedstrijden</a></p>
+   <p><a href=index.php>Hoofd pagina</a></p>
+    <p><a href=gokeuh.php>Gokken</a></p>
+</nav>
+
 </body>
 </html>
