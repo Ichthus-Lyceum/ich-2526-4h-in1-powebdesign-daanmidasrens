@@ -23,6 +23,7 @@
     Dit betekent dat mensen die 18+ zijn mogen gokken met een minimaal bedrag van 10 euro.
     Als u notificaties aan heeft sturen wij een melding als een nieuwe wedstrijd binnenkort wordt gespeelt.
 </p>
+<a> <img src = plaatjes/tel-vol.png width = "180" height = "100"> <img src = plaatjes/ajx-fey.jpg width = "180" height = "100"> <img src = plaatjes/grn-psv.jpg width = "180" height = "100"> <img src = plaatjes/wil-utr.png width = "180" height = "100"></a>
 </body>
 
 </html>
