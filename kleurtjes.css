@@ -1,5 +1,19 @@
 
 /* Algemene instellingen */
+
+p, h2 {
+    margin-bottom: 10px;
+}
+
+nav, main, header, footer {
+    padding-left: 30px;
+}
+
+nav, main, header, footer {
+    padding-right: 30px;
+}
+
+
 * {
     margin: 0;
     padding: 0;
@@ -8,7 +22,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: rgb(243, 239, 45);
+    background-color: rgb(243, 197, 45);
     display: grid;
     grid-template-areas:
         "header"

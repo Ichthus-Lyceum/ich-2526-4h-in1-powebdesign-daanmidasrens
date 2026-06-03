@@ -22,7 +22,7 @@
 <nav>
     <p><a href=shop.php>Wedstrijden</a></p>
     <p><a href=shop2.php>Winkel</a></p>
-    <p><a href=gokeuh.php>Gokken</a></p>
+    <p><a href=gokken.php>Gokken</a></p>
 </nav>
 
 <main>
@@ -30,6 +30,7 @@
         Welkom bij Erecasino Goud wij zijn een gok website voor de erendivicie. 
         Wij zijn een betrouwbare gok site waar je geld kan verdienen voor mensen van 18+.
         U moet minimaal 10 euro inzetten om te kunnen gokken.
+        
     </p>
 </main>
 

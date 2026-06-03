@@ -23,7 +23,7 @@
 <nav>
     <p><a href=shop.php>Wedstrijden</a></p>
    <p><a href=index.php>Hoofd pagina</a></p>
-    <p><a href=gokeuh.php>Gokken</a></p>
+    <p><a href=gokken.php>Gokken</a></p>
 </nav>
 
 <main>
@@ -35,5 +35,8 @@
 
 </main>
 
+    <footer>
+        <p><a href=overons.php>over ons</a></p>
+    </footer>
 </body>
 </html>

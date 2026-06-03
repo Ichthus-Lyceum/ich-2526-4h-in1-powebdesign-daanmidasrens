@@ -16,17 +16,29 @@
 
 <body>
 
-<header>
-    <h1>Wedstrijden</h1>
-</header>
+    <header>
+        <h1>Wedstrijden</h1>
+    </header>
 
-    <a href=index.php>Hoofd pagina</a>
-<p>
+    <nav>
+        <p><a href=index.php>Hoofd pagina</a></p>
+        <p><a href=shop2.php>Winkel</a></p>
+        <p><a href=gokken.php>Gokken</a></p>
+    </nav>
+
+    <main>
+
+    <p>
     Binnenkort komen de volgende wedstrijden. 
     Dit betekent dat mensen die 18+ zijn mogen gokken met een minimaal bedrag van 10 euro.
     Als u notificaties aan heeft sturen wij een melding als een nieuwe wedstrijd binnenkort wordt gespeelt.
-</p>
-<a> <img src = plaatjes/tel-vol.png width = "180" height = "100"> <img src = plaatjes/ajx-fey.jpg width = "180" height = "100"> <img src = plaatjes/grn-psv.jpg width = "180" height = "100"> <img src = plaatjes/wil-utr.png width = "180" height = "100"></a>
+    </p>
+        <a><img src = plaatjes/tel-vol.png width = "180" height = "100"> <img src = plaatjes/ajx-fey.jpg width = "180" height = "100"> <img src = plaatjes/grn-psv.jpg width = "180" height = "100"> <img src = plaatjes/wil-utr.png width = "180" height = "100"></a>
+    </main>
+
+    <footer>
+        <p><a href=overons.php>over ons</a></p>
+    </footer>
 </body>
 
 </html>
