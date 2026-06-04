@@ -15,10 +15,18 @@
 <body>
 
     <header>
-    <h1> Informatie </h1>
-</header>
+        <h1> Informatie </h1>
+    </header>
+
+    <nav>
+        <p><a href=shop.php>Wedstrijden</a></p>
+        <p><a href=shop2.php>Winkel</a></p>
+        <p><a href=gokken.php>Gokken</a></p>
+    </nav>
+
   <main> 
-<p> Wij zijn ere casino goud een betrouwbare een erkende gok website. 
+    <p> 
+        Wij zijn ere casino goud een betrouwbare een erkende gok website. 
         Bij ons kan je veilig je geld inzetten op de erdivisie wedstrijden. 
         Wij werken met het systeem dat je het geld naar ons overmaakt en in ruil daarvoor zal je je geld als krediet ontvangen.
         Bijvoorbeeld als u 10 euro overmaakt krijgt u 10 euro krediet terug.
@@ -31,12 +39,23 @@
     
     <h2> Gegevens </h2>
 
-    <p> Email: info@erecasino.com</p>
-   <p> Telefoon nummer: +31 06 8476929 </p>
-   <p>Locatie: Breestraat 27, 1941ED, Beverwijk </p>
+    <p> 
+        Email: info@erecasino.com
+    </p>
+
+    <p> 
+    Telefoon nummer: +31 06 8476929
+    </p>
+
+    <p>
+    Locatie: Breestraat 27, 1941ED, Beverwijk 
+    </p>
+
 </main>
 
-
+    <footer>
+        <p><a href=index.php>Hoofd pagina</a></p>
+    </footer>
     
 
 
