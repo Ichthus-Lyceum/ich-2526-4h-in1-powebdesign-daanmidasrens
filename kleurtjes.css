@@ -84,3 +84,8 @@ footer {
     text-align: center;
     padding: 15;
 }
+
+footer img{
+    border-width: 10;
+    border: solid,  #104911;
+}
