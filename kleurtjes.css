@@ -6,13 +6,9 @@ p, h2 {
 }
 
 nav, main, header, footer {
-    padding-left: 30px;
-}
-
-nav, main, header, footer {
+    padding-left: 30px; 
     padding-right: 30px;
 }
-
 
 * {
     margin: 0;
@@ -32,6 +28,7 @@ body {
     max-width: 1200;
     margin: 0 auto;
 }
+
 
 /* Header */
 header {

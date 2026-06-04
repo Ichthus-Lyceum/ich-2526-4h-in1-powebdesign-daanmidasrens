@@ -20,9 +20,9 @@
     </header>
     
     <nav>
-            <p><a href=index.php>Hoofd pagina</a></p>
-            <p><a href=shop.php>Wedstrijden</a></p>
-            <p><a href=shop2.php>Winkel</a></p>
+        <p><a href=index.php>Hoofd pagina</a></p>
+        <p><a href=shop.php>Wedstrijden</a></p>
+        <p><a href=shop2.php>Winkel</a></p>
     </nav>
 
     <main>
