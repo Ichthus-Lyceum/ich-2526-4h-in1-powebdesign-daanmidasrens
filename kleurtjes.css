@@ -24,13 +24,16 @@ header {
     grid-area: header;
     display: flex;
     background-color: #104911;
-    color: rgb(0, 0, 0);
+    color: rgb(243, 239, 45);
     text-align: right;
     padding: 20;
+    position: relative;
 }
 
 header img{
-    flex-basis: 50px;
+    position: absolute;
+    top: 0;
+    right: 0;
 }
 
 /* Navigatie */

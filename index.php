@@ -16,7 +16,7 @@
 
 <header>
     <h1>Erecasino Goud</h1>
-    <a><img src=plaatjes/logo.png width = "80" height = "80"></a>
+    <a><img src=plaatjes/logo.png width = "35" height = "35"></a>
 </header>
 
 <nav>
