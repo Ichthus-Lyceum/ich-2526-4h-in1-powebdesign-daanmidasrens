@@ -17,13 +17,8 @@
 <body>
     <header>
         <h1> Gokken </h1>
+        <a href=index.php><img src=plaatjes/logo.png width = "35" height = "35"></a>
     </header>
-    
-    <nav>
-        <p><a href=index.php>Hoofd pagina</a></p>
-        <p><a href=shop.php>Wedstrijden</a></p>
-        <p><a href=shop2.php>Winkel</a></p>
-    </nav>
 
     <main>
         <p>

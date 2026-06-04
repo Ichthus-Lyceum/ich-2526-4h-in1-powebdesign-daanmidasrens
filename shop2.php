@@ -18,13 +18,10 @@
 
 <header>
     <h1>Merch Winkel</h1>
+    <a href=index.php><img src=plaatjes/logo.png width = "35" height = "35"></a>
 </header>
 
-<nav>
-    <p><a href=shop.php>Wedstrijden</a></p>
-   <p><a href=index.php>Hoofd pagina</a></p>
-    <p><a href=gokken.php>Gokken</a></p>
-</nav>
+
 
 <main>
     <p>
@@ -36,7 +33,10 @@
 </main>
 
     <footer>
-        <p><a href=overons.php>over ons</a></p>
+       <a><img src= plaatjes/ajxShrt.png width= 100 height= 110></a>
+       <a><img src= plaatjes/grnShrt.png width= 100 height= 110></a>
+       <a><img src= plaatjes/fynShrt.png width= 100 height= 110></a>
+       <a><img src= plaatjes/telShrt.png width= 100 height= 110></a>
     </footer>
     
 </body>

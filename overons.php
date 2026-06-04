@@ -16,6 +16,7 @@
 
     <header>
         <h1> Informatie </h1>
+         <a href=index.php><img src=plaatjes/logo.png width = "35" height = "35"></a>
     </header>
 
     <nav>
@@ -52,12 +53,5 @@
     </p>
 
 </main>
-
-    <footer>
-        <p><a href=index.php>Hoofd pagina</a></p>
-    </footer>
-    
-
-
 </body>
 </html>
