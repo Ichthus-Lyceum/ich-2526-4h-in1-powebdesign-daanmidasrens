@@ -18,7 +18,7 @@
 
 <header>
     <h1>Merch Winkel</h1>
-    <a href=index.php><img src=plaatjes/logo.png width = "35" height = "35"></a>
+    <a href=mandje.php><img src=plaatjes/winkelmand.png width = "35" height = "35"></a>
 </header>
 
 
