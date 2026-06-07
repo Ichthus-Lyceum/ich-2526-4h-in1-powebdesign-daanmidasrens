@@ -40,6 +40,23 @@
          Onze casino bezoeken is dus veel gemakkelijker en eenvoudiger dan fysieke casino’s. 
          Als U gokken op een goede manier wil ervaren ga dan naar de pagina gokken.
     </p>
+
+    <h2> Waarom je voor ons moet kiezen </h2>
+
+    <p>
+        Waarom de Erencasino en niet een andere casino?
+        Hier gaan we uw vragen beantwoorden waarom onze casino het beste is.
+        De Erencasino Goud heeft een aantal regels bedacht zodat wij goed kunnen concurreren met onze concurrentie.
+        Als eerste hebben wij besloten om een merch winkel te maken voor de clubs die in de erendevicie spelen.
+        Bijna niemand heeft een merch store in hun casino dit zorgt ervoor dat wij uniek zijn.
+        Verder zorgen wij ervoor dat ale er een probleem is je altijd met een persoon contact krijgt die zijn best doen om U te helpen.
+        Wat wij ook voor zorgen is dat U nooit in schulden kan komen, omdat als we niet het voledige bedrag krijgen wij de transactie stoppen.
+        Hierdoor hoeft U nooit een maandelijks bedrag te betalen om die schulden aftebetalen. 
+        Waar wij ook voor zorgen is dat wij steeds meer gaan uitbereiden naar meerdere sporten zoals de Formule 1.
+        Wij zorgen er ook voor dat alles extra beveiligd is met de volgende cyber beveiliging.
+        Wij gebruiken encryptie dit zorgt er voor dat elk woord word verandert naar een code dat niet te achterhalen is.
+        De erencasino wilt dat alles veilig is zodat er niks verloren gaat.
+    </p>
 </main>
 
 <footer>

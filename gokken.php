@@ -17,7 +17,7 @@
 <body>
     <header>
         <h1> Gokken </h1>
-        <a href=index.php><img src=plaatjes/logo.png width = "35" height = "35"></a>
+        <a href=index.php><img src=plaatjes/login.png width = "75" height = "25"></a>
     </header>
 
     <main>
@@ -25,6 +25,7 @@
             Welkom bij onze gok pagina van Erencasino Goud. 
             Hier moet u de wedstrijd invullen en ook zeggen wie er gaat winnen met welke doelpunten ieder team heeft.
             Het minimale bedrag dat is toegestaan in 10 euro.
+            De wedstrijd waar het meest op word gegokt is de klasieker oftwewel Ajax-Feyenoord
             Als er iets is fout gegaan kunt U ons contacten, zie hiervoor "Over ons".
             De Erencasino Goud wenst U veel geluk.
         </p>

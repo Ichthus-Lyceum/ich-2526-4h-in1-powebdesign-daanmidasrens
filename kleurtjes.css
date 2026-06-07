@@ -6,6 +6,18 @@
     box-sizing: border-box;
 }
 
+h2 {
+    color: #0066ff;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-bottom: 3px solid #0066ff;
+    letter-spacing: 1px;
+}
+
 p, h2 {
     margin: 10px 0;
 }
