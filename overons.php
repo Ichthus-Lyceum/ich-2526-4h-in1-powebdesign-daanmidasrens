@@ -23,16 +23,16 @@
         <p><a href=shop.php>Wedstrijden</a></p>
         <p><a href=shop2.php>Winkel</a></p>
         <p><a href=gokken.php>Gokken</a></p>
+        <p><a href=index.php>Hoofdpagina</a></p>
     </nav>
 
   <main> 
     <p> 
-        Wij zijn ere casino goud een betrouwbare een erkende gok website. 
+        Wij zijn Erencasino Goud een betrouwbare en erkende gok website. 
         Bij ons kan je veilig je geld inzetten op de erdivisie wedstrijden. 
-        Wij werken met het systeem dat je het geld naar ons overmaakt en in ruil daarvoor zal je je geld als krediet ontvangen.
-        Bijvoorbeeld als u 10 euro overmaakt krijgt u 10 euro krediet terug.
-        Wij doen dit zodat er geen situaties ontstaan waarbij er een speler geld inzet maar het niet kan betalen.
-        Mocht er toch iets misgaan met krediet inzetten of geld storten voor krediet dan kunt u ons bereiken via onze gegevens hier onder
+        De erencasino zorgt ervoor dat je geen geld in kan zetten als je minder gel hebt dan het ingezette bedrag doet.
+        Dit doen we om schulden en boekhouden te verminderen zodat onze klanten een goede tijd kunnen hebben.
+        Mocht er toch wat fout zijn gegaan met de transacties zowel voor onze winkel als voor het gokken kunt U ons bereiken bij de onderstaande gegevens.
     </p>
 
 

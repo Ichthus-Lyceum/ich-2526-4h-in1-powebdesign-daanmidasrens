@@ -21,6 +21,12 @@
      <a href=index.php><img src=plaatjes/logo.png width = "35" height = "35"></a>
 </header>
 
+<nav>
+    <p><a href=gokken.php>Gokken</a></p>
+    <p><a href=index.php>Hoofdpagina</a></p>
+    <p><a href=shop2.php>Winkel</a></p>
+</nav>
+
 <main>
 <p>
     Binnenkort komen de volgende wedstrijden. 
@@ -35,6 +41,7 @@
     <a><img src = plaatjes/grn-psv.jpg width = "180" height = "100"></a>
     <a><img src = plaatjes/wil-utr.png width = "180" height = "100"></a>
     <a><img src = plaatjes/erenstand.png width= "300" height = "200"></a>
+    <p><a href=overons.php>Informatie</a></p>
 </footer>
 
 </body>

@@ -20,6 +20,12 @@
         <a href=index.php><img src=plaatjes/login.png width = "75" height = "25"></a>
     </header>
 
+    <nav>
+        <p><a href=index.php>Hoofdpagina</a></p>
+        <p><a href=shop.php>Wedstrijden</a></p>
+        <p><a href=shop2.php>Winkel</a></p>
+    </nav>
+
     <main>
         <p>
             Welkom bij onze gok pagina van Erencasino Goud. 
