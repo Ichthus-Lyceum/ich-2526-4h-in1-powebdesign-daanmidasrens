@@ -39,7 +39,7 @@
             Via deze betaal methode kan je onderranden bij ons betalen. 
             Wij als de Erencasino Goud accepteren ook meerdere betaalmethoden zoals creditcards zoals mastercards. 
             Wij zorgen ervoor dat er veilige en goede transacties komen, zodat alles veilig blijft en geld niet verloren gaat. 
-            Wij accepteren alleen geen achter af betalingen zoals klarna dit zorgt er voor dat niemand in schulden komen.
+            Wij accepteren alleen geen achter af betalingen zoals klarna dit zorgt er voor dat niemand in schulden komen. Mocht u nog verdere vragen hebben kunt u die stellen via een van de contact mogelijkheden zie hiervoor over ons.
         </p>
 
     </main>    
