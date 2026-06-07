@@ -31,6 +31,15 @@
         Wij zijn een betrouwbare gok site waar je geld kan verdienen voor mensen van 18+.
         U moet minimaal 10 euro inzetten om te kunnen gokken.
     </p>
+
+    <p>
+         Het spelen bij een online casino bied veel voordelen aan ten opzichte van de fysieke casino’s. 
+         Met een online casino kan je vanuit je eigen huis, of waar je ook bent gokken. 
+         Op deze manier krijg je veel sneller toegang voor het gokken. 
+         De Erencasino Goud is 24/7 open, alleen kan je niet meer gokken op een wedstrijd als hij al gespeelt word. 
+         Onze casino bezoeken is dus veel gemakkelijker en eenvoudiger dan fysieke casino’s. 
+         Als U gokken op een goede manier wil ervaren ga dan naar de pagina gokken.
+    </p>
 </main>
 
 <footer>

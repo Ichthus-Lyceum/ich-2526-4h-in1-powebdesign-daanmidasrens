@@ -30,7 +30,7 @@
 </main>
 
 <footer>
-<a> <img src = plaatjes/tel-vol.png width = "180" height = "100"> <img src = plaatjes/ajx-fey.jpg width = "180" height = "100"> <img src = plaatjes/grn-psv.jpg width = "180" height = "100"> <img src = plaatjes/wil-utr.png width = "180" height = "100"></a>
+    <a><img src = plaatjes/tel-vol.png width = "180" height = "100"> <img src = plaatjes/ajx-fey.jpg width = "180" height = "100"> <img src = plaatjes/grn-psv.jpg width = "180" height = "100"> <img src = plaatjes/wil-utr.png width = "180" height = "100"></a>
 </footer>
 
 </body>

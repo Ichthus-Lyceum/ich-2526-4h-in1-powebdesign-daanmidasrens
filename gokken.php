@@ -28,9 +28,24 @@
             Als er iets is fout gegaan kunt U ons contacten, zie hiervoor "Over ons".
             De Erencasino Goud wenst U veel geluk.
         </p>
+
+        <h2>
+            Betaalmethoden
+        </h2>
+
+        <p>
+            iDEAL | Wero is de bekendste digitale betaalmethode in Nederland, en alleen legale online casino's zoals de Erencasino Goud mogen deze methode aanbieden. 
+            Het gebruik van iDEAL | Wero biedt spelers een veilige en vertrouwde manier om geld te storten en op te nemen. 
+            Via deze betaal methode kan je onderranden bij ons betalen. 
+            Wij als de Erencasino Goud accepteren ook meerdere betaalmethoden zoals creditcards zoals mastercards. 
+            Wij zorgen ervoor dat er veilige en goede transacties komen, zodat alles veilig blijft en geld niet verloren gaat. 
+            Wij accepteren alleen geen achter af betalingen zoals klarna dit zorgt er voor dat niemand in schulden komen.
+        </p>
+
     </main>    
 
     <footer>
+        <a><img src = plaatjes/gokken.png width = "400" height = "350"><a/>
       <p><a href=overons.php>over ons</a></p>
     </footer>
 </body>
