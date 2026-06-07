@@ -27,19 +27,22 @@
     <p>
         Welkom bij de Erencasino goud zijn merch Winkel. 
         In deze winkel kun je merch vinden van de erendevicie en van bekende clubs.
-         Mocht het shirt wat u nou net wild uitverkocht zijn geen zorgen. Wij beheeren onze vooraad en zorgen dat uitverkochte producten nooit langer dan een week uit vooraad zijn.
-       Ook zal hier specifiek per wedstrijd een aantal nieuwe producten beschikbaar komen op basis van de club.
-       We zorgen ook dat er altijd variatie zal zijn van clubs en producten zoals shirts, mokken en andere spullen. 
-         U zal ook vanaf een bestelling van 50 euro bij ons geen verzend kosten meer hoeven te betalen.
+        Mocht het shirt wat u nou net wild uitverkocht zijn geen zorgen. Wij beheeren onze vooraad en zorgen dat uitverkochte producten nooit langer dan een week uit vooraad zijn.
+        Ook zal hier specifiek per wedstrijd een aantal nieuwe producten beschikbaar komen op basis van de club.
+        We zorgen ook dat er altijd variatie zal zijn van clubs en producten zoals shirts, mokken en andere spullen. 
+        U zal ook vanaf een bestelling van 50 euro bij ons geen verzend kosten meer hoeven te betalen.
     </p>
 
 </main>
 
     <footer>
-       <a><img src= plaatjes/ajxShrt.png width= 100 height= 110></a>
-       <a><img src= plaatjes/grnShrt.png width= 100 height= 110></a>
-       <a><img src= plaatjes/fynShrt.png width= 100 height= 110></a>
-       <a><img src= plaatjes/telShrt.png width= 100 height= 110></a>
+       <a><img src = plaatjes/ajxshrt.png width = "100" height= "110"></a>
+       <a><img src = plaatjes/grnshrt.png width = "100" height= "110"></a>
+       <a><img src = plaatjes/fynshrt.png width = "100" height= "110"></a>
+       <a><img src = plaatjes/telshrt.png width = "100" height= "110"></a>
+       <a><img src = plaatjes/azshirt.png width = "100" height= "110"></a>
+       <a><img src = plaatjes/psvshirt.png width = "100" height= "110"></a>
+       <a><img src = plaatjes/twenteshirt.png width= "100" height= "110"></a>
     </footer>
     
 </body>
