@@ -20,6 +20,7 @@
     <h1>Wedstrijden</h1>
      <a href=index.php><img src=plaatjes/logo.png width = "35" height = "35"></a>
 </header>
+
 <main>
 <p>
     Binnenkort komen de volgende wedstrijden. 
