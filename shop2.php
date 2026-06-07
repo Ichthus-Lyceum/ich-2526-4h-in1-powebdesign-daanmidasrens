@@ -29,14 +29,14 @@
 
 <main>
     <p>
-        Welkom bij de Erencasino goud zijn merch Winkel. 
-        In deze winkel kun je merch vinden van de erendevicie en van bekende clubs.
-        Mocht het shirt wat u nou net wilt uitverkocht zijn geen zorgen. 
+        Welkom bij de Erecasino goud zijn merch Winkel. 
+        In deze winkel kun je merch vinden van bekende clubs.
+        Mocht het shirt wat u nou net wilt uitverkocht zijn, geen zorgen. 
         Wij beheeren onze vooraad en zorgen dat uitverkochte producten nooit langer dan een week uit vooraad zijn.
         Ook zal hier specifiek per wedstrijd een aantal nieuwe producten beschikbaar komen op basis van de club.
-        We zorgen ook dat er altijd variatie zal zijn van clubs en producten zoals shirts, mokken en andere spullen. 
-        U zal ook vanaf een bestelling van 50 euro bij ons geen verzend kosten meer hoeven te betalen.
-        Wij zorgen voor een snelle levering zodat U snel kan genieten van uw product.
+        We zorgen ook dat er altijd variatie zal zijn van clubs en producten zoals shirts, vlaggen en andere spullen. 
+        U zal ook vanaf een bestelling van 50 euro bij ons geen verzendkosten meer hoeven te betalen.
+        Wij zorgen voor een snelle levering, zodat U snel kan genieten van uw product.
         Wat wij op vooraad hebben op dit moment ziet U hieronder. 
         De prijs per T-shirt is 50 euro. De prijs per vlag is 20 euro.
 
@@ -68,7 +68,7 @@
        <a><img src = plaatjes/fcvolvlag.png width = "100" height= "110"></a>
        <a><img src = plaatjes/heershirt.png width = "100" height= "110"></a>
        <a><img src = plaatjes/heervlag.png width = "100" height= "110"></a>
-       <p><a href=overons.php>Informatie</a></p>
+       <p><a href=overons.php>overons</a></p>
     </footer>
     
 </body>

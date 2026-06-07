@@ -41,7 +41,7 @@
     <a><img src = plaatjes/grn-psv.jpg width = "180" height = "100"></a>
     <a><img src = plaatjes/wil-utr.png width = "180" height = "100"></a>
     <a><img src = plaatjes/erenstand.png width= "300" height = "200"></a>
-    <p><a href=overons.php>Informatie</a></p>
+    <p><a href=overons.php>Overons</a></p>
 </footer>
 
 </body>
