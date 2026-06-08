@@ -40,20 +40,20 @@
 </p>
 
 <h2>
-    Eredevicie stand. 
+    Eredevisie stand. 
 </h2>
 
 <p>
-    De eredevicie is bijna klaar dit betekent dat we de volgede punten al weten.
+    De eredevisie is bijna klaar dit betekent dat we de volgede punten al weten.
     PSV is landskampioen van het jaar 2025/2026. 
     Wat we ook weten is dat feyenoord 2de is geworden.
     NEC heeft de 3de plek voor zichzelf.
-    Wat we ook weten is dat heracles uit de erendevicie gaat.
-    Ook gaat NAC breda uit de eredevicie.
-    Willem 2 komt weer terug in de erendevicie voor het volgende seizoen.
-    De laatste wedstrijd voor een plek in de eredevicie gaat tussen Telstar en Volemdam.
+    Wat we ook weten is dat heracles uit de erendevisie gaat.
+    Ook gaat NAC breda uit de eredevisie.
+    Willem 2 komt weer terug in de erendevisie voor het volgende seizoen.
+    De laatste wedstrijd voor een plek in de eredevisie gaat tussen Telstar en Volemdam.
     Telstar heeft een voordeel voor deze wedstrijd, zij hoeven alleen gelijkspel te spelen of te winnen.
-    Als volemdam in de eredevicie wil blijven moeten ze de wedstrijd tegen Telstar winnen.
+    Als volemdam in de eredevisie wil blijven moeten ze de wedstrijd tegen Telstar winnen.
 
 </p>
 
