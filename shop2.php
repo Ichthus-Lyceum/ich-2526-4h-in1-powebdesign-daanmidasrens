@@ -42,6 +42,20 @@
 
     </p>
 
+        <h2>
+            Betaalmethoden
+        </h2>
+
+        <p>
+            iDEAL | Wero is de bekendste digitale betaalmethode in Nederland en alleen legale online casino's, zoals de Erecasino Goud mogen deze methode aanbieden. 
+            Het gebruik van iDEAL | Wero biedt spelers een veilige en vertrouwde manier om geld te storten en op te nemen. 
+            Via deze betaal methode kan je onderandere bij ons betalen. 
+            Wij als de Erecasino Goud accepteren ook meerdere betaalmethoden, zoals creditcards. 
+            Wij zorgen ervoor dat er veilige en goede transacties komen, zodat alles veilig blijft en geld niet verloren gaat. 
+            Wij accepteren alleen geen achteraf betalingen, zoals klarna dit zorgt ervoor dat niemand in schulden kan komen. 
+            Mocht u nog verdere vragen hebben, kunt u die stellen via een van de contact mogelijkheden zie hiervoor "over ons".
+        </p>
+
 </main>
 
     <footer>
