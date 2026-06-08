@@ -57,6 +57,8 @@
 
 </p>
 
+<a><img src = plaatjes/erenstand.png width= "300" height = "200"></a>
+
 </main>
 
 <footer>
@@ -64,7 +66,6 @@
     <a><img src = plaatjes/ajx-fey.jpg width = "180" height = "100"></a>
     <a><img src = plaatjes/grn-psv.jpg width = "180" height = "100"></a>
     <a><img src = plaatjes/wil-utr.png width = "180" height = "100"></a>
-    <a><img src = plaatjes/erenstand.png width= "300" height = "200"></a>
     <p><a href=overons.php>Overons</a></p>
 </footer>
 
