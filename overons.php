@@ -2,7 +2,7 @@
 <html lang="nl">
 <head>
 
-<title>Paginatemplate</title>
+    <title>Paginatemplate</title>
 
     <meta charset="utf-8">
     <meta name="author" content="DaanMidasRens">
@@ -18,7 +18,7 @@
         <h1>
       Informatie
         </h1>
-         <a href=index.php><img src=plaatjes/logo.png alt="" width = "35" height = "35"></a>
+         <a href=index.php><img src=plaatjes/logo.png width = "35" height = "35"></a>
     </header>
 
     <nav>
@@ -42,7 +42,7 @@
 
     
     <h2> 
-    Gegevens 
+  Gegevens 
     </h2>
 
     <p> 
