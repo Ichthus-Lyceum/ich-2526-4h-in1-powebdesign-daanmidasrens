@@ -17,7 +17,7 @@
 <body>
     <header>
         <h1> Gokken </h1>
-        <a href=index.php><img src=plaatjes/login.png width = "75" height = "25"></a>
+        <a href=inlog.php><img src=plaatjes/login.png width = "75" height = "25"></a>
     </header>
 
     <nav>
@@ -53,7 +53,7 @@
     </main>    
 
     <footer>
-        <a><img src = plaatjes/gokken.png width = "400" height = "350"><a/>
+        <a><img src = plaatjes/gokken.png width = "1000" height = "525"><a/>
       <p><a href=overons.php>Overons</a></p>
     </footer>
 </body>

@@ -24,13 +24,14 @@
         <p><a href=shop2.php>Winkel</a></p>
         <p><a href=gokken.php>Gokken</a></p>
         <p><a href=index.php>Hoofdpagina</a></p>
+        <p><a href=inlog.php>Log in</a></p>
     </nav>
 
   <main> 
     <p> 
         Wij zijn Erencasino Goud een betrouwbare en erkende gok website. 
         Bij ons kan je veilig je geld inzetten op de erdivisie wedstrijden. 
-        De erencasino zorgt ervoor dat je geen geld in kan zetten als je minder gel hebt dan het ingezette bedrag doet.
+        De erencasino zorgt ervoor dat je geen geld in kan zetten als je minder geld hebt dan het ingezette bedrag.
         Dit doen we om schulden en boekhouden te verminderen zodat onze klanten een goede tijd kunnen hebben.
         Mocht er toch wat fout zijn gegaan met de transacties zowel voor onze winkel als voor het gokken kunt U ons bereiken bij de onderstaande gegevens.
     </p>
