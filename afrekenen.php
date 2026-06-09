@@ -21,10 +21,10 @@
 <body>
 
 <header>
-       <h1> 
+    <h1> 
         Afrekenen 
-     </h1>
-       <a href=index.php><img src=plaatjes/logo.png alt="" width = "35" height = "35"></a>
+    </h1>
+    <a href=index.php><img src=plaatjes/logo.png alt="" width = "35" height = "35"></a>
 </header>
 
 <main>

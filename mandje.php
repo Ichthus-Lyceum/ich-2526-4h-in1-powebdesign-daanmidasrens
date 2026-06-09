@@ -21,8 +21,8 @@
 <body>
 
 <header>
-       <h1> 
-        Uw bestelling 
+        <h1> 
+            Uw bestelling 
         </h1>
        <a href=index.php><img src=plaatjes/logo.png alt = "logo" width = "35" height = "35"></a>
 </header>
@@ -30,12 +30,10 @@
 <main>
     <p>1x T-shirt - 50€</p>
     <p> De bestelling duurt 2-5 werkdagen en U krijgt een mail met de tijden wanneer het product bezorgt word.</p>
-    </main>
+</main>
 
     <footer>
-    <a href=afrekenen.php>
-        afrekenen
-    </a>
+    <a href=afrekenen.php>afrekenen</a>
     </footer>
 
 </body>

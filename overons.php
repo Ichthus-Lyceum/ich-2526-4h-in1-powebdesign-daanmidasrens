@@ -16,7 +16,7 @@
 
     <header>
         <h1>
-      Informatie
+            Informatie
         </h1>
          <a href=index.php><img src=plaatjes/logo.png width = "35" height = "35"></a>
     </header>
@@ -42,7 +42,7 @@
 
     
     <h2> 
-  Gegevens 
+        Gegevens 
     </h2>
 
     <p> 
@@ -50,13 +50,13 @@
     </p>
 
     <p> 
-    Telefoon nummer: +31 06 8476929
+        Telefoon nummer: +31 06 8476929
     </p>
     <p> 
-    Wij zijn via dit nummer te bereiken van dinsdag tot vrijdag van 10:00 tot 16:00
+        Wij zijn via dit nummer te bereiken van dinsdag tot vrijdag van 10:00 tot 16:00
     </p>
     <p>
-    Locatie: Breestraat 27, 1941ED, Beverwijk 
+        Locatie: Breestraat 27, 1941ED, Beverwijk 
     </p>
 
 </main>
