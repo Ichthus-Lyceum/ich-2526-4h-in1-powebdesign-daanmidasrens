@@ -44,7 +44,7 @@
         Waarom de Erencasino en niet een andere casino?
         Hier gaan we uw vragen beantwoorden waarom onze casino het beste is.
         De Erencasino Goud heeft een aantal regels bedacht zodat wij goed kunnen concurreren met onze concurrentie.
-        Als eerste hebben wij besloten om een merch winkel te maken voor de clubs die in de erendevicie spelen.
+        Als eerste hebben wij besloten om een merch winkel te maken voor de clubs die in de erendevisie spelen.
         Bijna niemand heeft een merch store in hun casino dit zorgt ervoor dat wij uniek zijn.
         Verder zorgen wij ervoor dat ale er een probleem is je altijd met een persoon contact krijgt die zijn best doen om U te helpen.
         Wat wij ook voor zorgen is dat U nooit in schulden kan komen, omdat als we niet het voledige bedrag krijgen wij de transactie stoppen.
