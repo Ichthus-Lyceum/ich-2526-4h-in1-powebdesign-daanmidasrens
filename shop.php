@@ -18,7 +18,7 @@
 
 <header>
     <h1>Wedstrijden</h1>
-     <a href=index.php><img src=plaatjes/logo.png width = "35" height = "35"></a>
+     <a href=index.php><img src=plaatjes/logo.png alt="" width = "35" height = "35"></a>
 </header>
 
 <nav>
@@ -63,10 +63,10 @@
 </main>
 
 <footer>
-    <a><img src = plaatjes/tel-vol.png width = "180" height = "100"></a>
-    <a><img src = plaatjes/ajx-fey.jpg width = "180" height = "100"></a>
-    <a><img src = plaatjes/grn-psv.jpg width = "180" height = "100"></a>
-    <a><img src = plaatjes/wil-utr.png width = "180" height = "100"></a>
+    <a><img src = plaatjes/tel-vol.png alt="" width = "180" height = "100"></a>
+    <a><img src = plaatjes/ajx-fey.jpg alt="" width = "180" height = "100"></a>
+    <a><img src = plaatjes/grn-psv.jpg alt="" width = "180" height = "100"></a>
+    <a><img src = plaatjes/wil-utr.png alt="" width = "180" height = "100"></a>
     <p><a href=overons.php>Overons</a></p>
 </footer>
 
