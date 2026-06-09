@@ -15,7 +15,9 @@
 <body>
 
     <header>
-        <h1> Informatie </h1>
+        <h1>
+      Informatie
+        </h1>
          <a href=index.php><img src=plaatjes/logo.png width = "35" height = "35"></a>
     </header>
 
@@ -39,7 +41,9 @@
 
 
     
-    <h2> Gegevens </h2>
+    <h2> 
+  Gegevens 
+    </h2>
 
     <p> 
         Email: info@erecasino.com

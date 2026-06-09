@@ -16,7 +16,9 @@
 
 <body>
     <header>
-        <h1> Gokken </h1>
+        <h1>
+             Gokken 
+        </h1>
         <a href=inlog.php><img src=plaatjes/login.png width = "75" height = "25"></a>
     </header>
 

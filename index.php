@@ -39,7 +39,9 @@
          Als U gokken op een goede manier wil ervaren ga dan naar de pagina gokken.
     </p>
 
-    <h2> Waarom je voor ons moet kiezen </h2>
+    <h2> 
+        Waarom je voor ons moet kiezen 
+    </h2>
 
     <p>
         Waarom de Erencasino en niet een andere casino?

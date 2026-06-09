@@ -15,7 +15,9 @@
 <body>
 
 <header>
-       <h1> Registreren </h1>
+       <h1> 
+        Registreren 
+     </h1>
        <a href=index.php><img src=plaatjes/logo.png width = "35" height = "35"></a>
 </header>
 
