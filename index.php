@@ -10,9 +10,9 @@
     <meta name="description" content="Dit is de HTML5 template voor iedere pagina">
     <link rel="stylesheet" type="text/css" href="kleurtjes.css">
 
-<body>
-
 </head>
+
+<body>
 
 <header>
     <h1>Erecasino Goud</h1>
