@@ -7,9 +7,9 @@
 
 Deze repository bevat een configuratie voor de Codespaces ontwikkelomgeving.
 
-De configuratie ondersteunt:
+De configuratie ondersteunt:php -S localhost:8080
 - PHP
-- Webserver (ingebouwd in PHP, start met `php -S localhost:8080`)
+- Webserver (ingebouwd in PHP, start met ``)
 - Database (SQLite)
 - Webbased database beheer (Adminer)
 
