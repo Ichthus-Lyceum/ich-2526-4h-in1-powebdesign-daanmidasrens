@@ -53,7 +53,7 @@
     </main>    
 
     <footer>
-        <a><img src = plaatjes/gokken.png width = "400" height = "350"><a/>
+        <a><img src = plaatjes/gokken.png width = "1000" height = "525"><a/>
       <p><a href=overons.php>Overons</a></p>
     </footer>
 </body>
