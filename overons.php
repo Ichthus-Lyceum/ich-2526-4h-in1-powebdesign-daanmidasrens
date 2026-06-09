@@ -42,7 +42,7 @@
 
     
     <h2> 
-  Gegevens 
+    Gegevens 
     </h2>
 
     <p> 
