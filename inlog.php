@@ -29,7 +29,10 @@
     <main>
         Welkom bij Erecasino Goud zijn inlog pagina.
         Om in te loggen moet je je email en een wachtwoord door geven.
-
+        De voordelen van registreren zijn de volgende punten.
+        Je kan korting krijgen op onze merch store tot wel 50%.
+        Als je registreert kan je sneller gokken vanwegen dat we je gegevens al weten.
+        
     </main>
 
 <footer>
