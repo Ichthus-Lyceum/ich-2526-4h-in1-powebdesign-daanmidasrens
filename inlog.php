@@ -28,11 +28,13 @@
 
     <main>
         Welkom bij Erecasino Goud zijn inlog pagina.
+        Om in te loggen moet je je email en een wachtwoord door geven.
 
     </main>
 
 <footer>
     <a><img src = plaatjes/loginplek.png width = "300" height= "400"></a>
+    <a><img src = plaatjes/acc.png width = "300" height= "400"></a>
 <p><a href=overons.php>Over Ons</a></p>
 </footer>
 
