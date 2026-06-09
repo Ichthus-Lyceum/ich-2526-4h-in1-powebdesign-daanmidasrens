@@ -29,7 +29,7 @@
 
 <main>
      <p>
-        betalingsmethode
+        betalingsmethode.
     </p>
 </main>
 

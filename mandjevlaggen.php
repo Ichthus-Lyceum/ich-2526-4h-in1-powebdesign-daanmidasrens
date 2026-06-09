@@ -29,12 +29,12 @@
 
 <main>
     <p>1x vlag - 20€</p>
+    <p> De bestelling duurt 2-5 werkdagen en U krijgt een mail met de tijden wanneer het product bezorgt word.</p>
+    
     </main>
 
     <footer>
-    <a href=afrekenen.php>
-        afrekenen
-    </a>
+    <a href=afrekenen.php>afrekenen</a>
     </footer>
 
 </body>

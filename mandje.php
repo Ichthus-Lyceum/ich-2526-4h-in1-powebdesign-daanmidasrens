@@ -29,6 +29,7 @@
 
 <main>
     <p>1x T-shirt - 50€</p>
+    <p> De bestelling duurt 2-5 werkdagen en U krijgt een mail met de tijden wanneer het product bezorgt word.</p>
     </main>
 
     <footer>
