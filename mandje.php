@@ -28,9 +28,7 @@
     </main>
 
     <footer>
-    <a href=afrekenen.php>
-        afrekenen
-    </a>
+    <a href=afrekenen.php>afrekenen</a>
     </footer>
 
 </body>

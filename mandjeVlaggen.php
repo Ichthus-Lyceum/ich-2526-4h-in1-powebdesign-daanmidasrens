@@ -20,8 +20,15 @@
 
 <body>
 
+<header>
+       <h1> 
+        Registreren 
+     </h1>
+       <a href=index.php><img src=plaatjes/logo.png width = "35" height = "35"></a>
+</header>
+
 <main>
-    <p>1x vlag - 50€</p>
+    <p>1x vlag - 20€</p>
     </main>
 
     <footer>
