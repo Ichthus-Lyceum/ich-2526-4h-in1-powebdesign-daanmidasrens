@@ -18,7 +18,7 @@
        <h1> 
         Registreren 
      </h1>
-       <a href=index.php><img src=plaatjes/logo.png width = "35" height = "35"></a>
+       <a href=index.php><img src=plaatjes/logo.png alt="" width = "35" height = "35"></a>
 </header>
 
     <nav>
@@ -36,13 +36,13 @@
         Als je registreert kan je sneller gokken vanwegen dat we je gegevens al weten.
         Ook zullen wij u makkelijker kunnen helpen met eventuele problemen, Omdat wij U makkelijker kunnnen terugvinden en daardoor het probleem sneller kunnen oplossen.
         Om te gokken moet je ook een account aanmaken zodat we uw gegevens hebben en geld kunnen opnemen en storten.
-        
+
         
     </main>
 
 <footer>
-    <a><img src = plaatjes/loginplek.png width = "300" height= "400"></a>
-    <a><img src = plaatjes/acc.png width = "300" height= "400"></a>
+    <a><img src = plaatjes/loginplek.png alt="" width = "300" height= "400"></a>
+    <a><img src = plaatjes/acc.png alt="" width = "300" height= "400"></a>
 <p><a href=overons.php>Over Ons</a></p>
 </footer>
 
