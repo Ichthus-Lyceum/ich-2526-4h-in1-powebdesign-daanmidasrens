@@ -34,8 +34,8 @@
         De voordelen van registreren zijn de volgende punten.
         Je kan korting krijgen op onze merch store tot wel 50%.
         Als je registreert kan je sneller gokken vanwegen dat we je gegevens al weten.
-        Ook zullen wij u makkelijker kunnen helpen met eventuele problemen. 
-        Omdat wij u makkelijker kunnnen terugvinden en daardoor het probleem sneller oplossen.
+        Ook zullen wij u makkelijker kunnen helpen met eventuele problemen, Omdat wij U makkelijker kunnnen terugvinden en daardoor het probleem sneller kunnen oplossen.
+        Om te gokken moet je ook een account aanmaken zodat we uw gegevens hebben en geld kunnen opnemen en storten.
         
         
     </main>
