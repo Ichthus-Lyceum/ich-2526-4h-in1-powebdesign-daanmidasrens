@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <html lang="nl">
 
 <head>
@@ -14,21 +16,25 @@
 
 <link rel="stylesheet" type="text/css" href="kleurtjes.css">
 
-<body>
-
 </head>
 
-    <header>
-        <h1>Uw winkelmandje</h1>
-        <a href=index.php><img src=plaatjes/logo.png width = "35" height = "35"></a>
-    </header>
+<body>
 
-   <main>
-    <p>1x Shirt - 50€</p>
+<header>
+       <h1> 
+        Uw bestelling 
+        </h1>
+       <a href=index.php><img src=plaatjes/logo.png width = "35" height = "35"></a>
+</header>
+
+<main>
+    <p>1x T-shirt - 50€</p>
     </main>
 
     <footer>
-    <a href=afrekenen.php>afrekenen</a>
+    <a href=afrekenen.php>
+        afrekenen
+    </a>
     </footer>
 
 </body>
