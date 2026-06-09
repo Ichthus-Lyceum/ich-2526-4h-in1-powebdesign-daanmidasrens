@@ -62,27 +62,27 @@
     <footer>
        <h2>Producten</h2>
        <a href=mandje.php><img src = plaatjes/ajxshrt.png width = "100" height= "110"></a>
-       <a href=mandjeVlaggen.php><img src = plaatjes/ajxvlag.png width = "100" height= "110"></a>
+       <a href=mandjevlaggen.php><img src = plaatjes/ajxvlag.png width = "100" height= "110"></a>
        <a href=mandje.php><img src = plaatjes/grnshrt.png width = "100" height= "110"></a>
-       <a href=mandjeVlaggen.php><img src = plaatjes/fcgr.png width = "100" height= "110"></a>
+       <a href=mandjevlaggen.php><img src = plaatjes/fcgr.png width = "100" height= "110"></a>
        <a href=mandje.php><img src = plaatjes/fynshrt.png width = "100" height= "110"></a>
-       <a href=mandjeVlaggen.php><img src = plaatjes/feyevlag.png width = "100" height= "110"></a>
+       <a href=mandjevlaggen.php><img src = plaatjes/feyevlag.png width = "100" height= "110"></a>
        <a href=mandje.php><img src = plaatjes/telshrt.png width = "100" height= "110"></a>
-       <a href=mandjeVlaggen.php><img src = plaatjes/telvlag.png width = "100" height= "110"></a>
+       <a href=mandjevlaggen.php><img src = plaatjes/telvlag.png width = "100" height= "110"></a>
        <a href=mandje.php><img src = plaatjes/azshirt.png width = "100" height= "110"></a>
-       <a href=mandjeVlaggen.php><img src = plaatjes/azvlag.png width = "100" height= "110"></a>
+       <a href=mandjevlaggen.php><img src = plaatjes/azvlag.png width = "100" height= "110"></a>
        <a href=mandje.php><img src = plaatjes/psvshirt.png width = "100" height= "110"></a>
-       <a href=mandjeVlaggen.php><img src = plaatjes/psvvlag.png width = "100" height= "110"></a>
+       <a href=mandjevlaggen.php><img src = plaatjes/psvvlag.png width = "100" height= "110"></a>
        <a href=mandje.php><img src = plaatjes/twenteshirt.png width= "100" height= "110"></a>
-       <a href=mandjeVlaggen.php><img src = plaatjes/fctw.png width = "100" height= "110"></a>
+       <a href=mandjevlaggen.php><img src = plaatjes/fctw.png width = "100" height= "110"></a>
        <a href=mandje.php><img src = plaatjes/necshirt.png width = "100" height= "110"></a>
-       <a href=mandjeVlaggen.php><img src = plaatjes/necvlag.png width = "100" height= "110"></a>
+       <a href=mandjevlaggen.php><img src = plaatjes/necvlag.png width = "100" height= "110"></a>
        <a href=mandje.php><img src = plaatjes/will2.png width = "100" height= "110"></a>
-       <a href=mandjeVlaggen.php><img src = plaatjes/will2vlag.png width = "100" height= "110"></a>
+       <a href=mandjevlaggen.php><img src = plaatjes/will2vlag.png width = "100" height= "110"></a>
        <a href=mandje.php><img src = plaatjes/fcvolshirt.png width = "100" height= "110"></a>
-       <a href=mandjeVlaggen.php><img src = plaatjes/fcvolvlag.png width = "100" height= "110"></a>
+       <a href=mandjevlaggen.php><img src = plaatjes/fcvolvlag.png width = "100" height= "110"></a>
        <a href=mandje.php><img src = plaatjes/heershirt.png width = "100" height= "110"></a>
-       <a href=mandjeVlaggen.php><img src = plaatjes/heervlag.png width = "100" height= "110"></a>
+       <a href=mandjevlaggen.php><img src = plaatjes/heervlag.png width = "100" height= "110"></a>
        <p><a href=overons.php>overons</a></p>
     </footer>
     
