@@ -24,6 +24,7 @@
         <p><a href=shop2.php>Winkel</a></p>
         <p><a href=gokken.php>Gokken</a></p>
         <p><a href=index.php>Hoofdpagina</a></p>
+        <p><a href=inlog.php>Log in</a></p>
     </nav>
 
   <main> 
